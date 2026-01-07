@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, it's A /V D Y@</h1>
+<h1 align="center">Hi 👋, it's A N D Y@</h1>
 <h4 align="center">I'm Andy Kieckhefer, your wizarding world enthusiast...always. Experienced meteorologist currently mastering research and development of computing tools, especially when it comes to human health and a forecast delivery.</h4> 
 
 🌍 United States Central
