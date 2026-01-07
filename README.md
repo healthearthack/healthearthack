@@ -18,7 +18,7 @@
 
 > Salesforce
 
-# ⏱ Gateway Technical College | University of Wisconsin Madison 
+# ⏱ Gateway Technical College | University of Wisconsin Madison | Ironhack
 > Data Science Bootcamp
 
 > Psychology
