@@ -5,7 +5,7 @@
 
 🌱 Debugging and building
 
-💬 Ask me about Lyft
+💬 Ask me about CRM
 
 📫 Write or call me
 
@@ -41,3 +41,7 @@
 > https://Twitter.com/KieckheferA
 
 > https://YouTube.com/@andyatadp8115
+
+<p align="center">
+  <i>"Predicting the future by building it."</i>
+</p>
