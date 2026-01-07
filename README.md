@@ -7,11 +7,7 @@
 
 💬 Ask me about Lyft
 
-📫 Write me, call me, beep me
-
-💼 R&D | https://data.mendeley.com/preview/98hb7zz6w5
-
-👉 More | https://bit.ly/andrewkieckhefer
+📫 Write or call me
 
 # 💻 Sneak Preview
 > Programming
@@ -33,7 +29,7 @@
 
 > UX/UI
 
-# ✅ Certifications
+# ✅ Certifications Attained
 > Salesforce Certified Agentforce Specialist
 
 > Leadership in Energy and Environmental Design
