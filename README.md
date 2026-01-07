@@ -37,11 +37,6 @@
 # ✍️For-the-love-of Projects
 > Deploying a Twitter AI forecasting agent
 
-# 🌐Socials
-> https://Twitter.com/KieckheferA
-
-> https://YouTube.com/@andyatadp8115
-
 <p align="center">
   <i>"Predicting the future by building it." Andy@</i>
 </p>
