@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, it's A /V D Y@</h1>
 <h4 align="center">I'm Andy Kieckhefer, your wizarding world enthusiast...always. Experienced meteorologist currently mastering research and development of computing tools, especially when it comes to human health and a forecast delivery.</h4> 
 
-<p align="center">
-  <img src="assets/banner.png" alt="Andy@" style="max-width: 100%; height: auto;">
-</p>
-
-<h4 align="center">Think, IT services and AI design. My priorities include documenting research and roadmap deployment. Fun fact, I have flying hours. Plus</h4>
-
 🌍 United States Central
 
 🌱 Debugging and building
