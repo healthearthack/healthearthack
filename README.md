@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's A N D Y@</h1>
-<h4 align="center">I'm Andy Kieckhefer, your wizarding world enthusiast...always. Experienced meteorologist currently mastering research and development of computing tools, especially when it comes to human health and a forecast delivery.</h4> 
+<h4 align="center">I'm Andy Kieckhefer, your wizarding world enthusiast...always. Experienced meteorologist currently expanding my software developer skillset.</h4> 
 
 🌍 United States Central
 
@@ -13,20 +13,12 @@
 
 👉 More | https://bit.ly/andrewkieckhefer
 
-# 💻Tech Stack Sneak Peek
-> Python
+# 💻 Sneak Preview
+> Programming
 
-> HTML
+> Salesforce
 
-> Jupyter Notebook
-
-> Csharp
-
-> Go
-
-> Agentforce
-
-# ⏱ Gateway Technical College | University of Wisconsin Madison | Milwaukee School of Engineering (prospective)
+# ⏱ Gateway Technical College | University of Wisconsin Madison 
 > Data Science Bootcamp
 
 > Psychology
@@ -37,9 +29,9 @@
 
 > Commputer Science
 
-> Machine Learning
+> Programming
 
-> UXUI
+> UX/UI
 
 # ✅ Certifications
 > Salesforce Certified Agentforce Specialist
@@ -48,8 +40,6 @@
 
 # ✍️For-the-love-of Projects
 > Deploying a Twitter AI forecasting agent
-
-> Data summarizer
 
 # 🌐Socials
 > https://Twitter.com/KieckheferA
