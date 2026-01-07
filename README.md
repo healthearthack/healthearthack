@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's A N D Y@</h1>
-<h4 align="center">I'm Andy Kieckhefer, your wizarding world enthusiast...always. Experienced meteorologist currently expanding my software developer skillset.</h4> 
+<h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my software developer skillset.</h4> 
 
 🌍 United States
 
