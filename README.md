@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's A N D Y@</h1>
-<h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my tech talent.</h4> 
+<h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my software developer skills.</h4> 
 
 🌍 United States
 
@@ -12,13 +12,13 @@
 📫 Write me ☎️ Call me
 
 # 🧠 Sneak Preview 
-> Programming
-
 > Salesforce
 
 > Models
 
 > Weather
+
+> 🌱 Java, Rust 🍃 CSharp, JavaScript 🌳 Python, HTML
 
 # ⏱ Gateway Technical College | University of Wisconsin Madison | Ironhack
 > Data Science
