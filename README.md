@@ -18,7 +18,7 @@
 
 > Weather
 
-> 🌱 Java, Rust 🍃 CSharp, JavaScript 🌳 Python, HTML
+> 🌱 Java, Rust, Apex 🍃 CSharp, JavaScript 🌳 Python, HTML
 
 # ⏱ Gateway Technical College | University of Wisconsin Madison | Ironhack
 > Data Science
