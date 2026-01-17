@@ -29,7 +29,7 @@
 
 > Leadership
 
-> Commputer Science
+> Computer Science
 
 > UX/UI
 
