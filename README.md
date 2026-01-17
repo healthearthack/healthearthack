@@ -30,12 +30,14 @@
 > UX/UI
 
 # ✅ Certifications Attained
-> Salesforce Certified Agentforce Specialist
+> Salesforce Certified Agentforce Specialist (Enterprise AI)
 
 > Leadership in Energy and Environmental Design
 
 # ✍️For-the-love-of Projects
 > Deploying a Twitter AI forecasting agent
+
+
 
 <p align="center">
   <i>"Predicting the future by building it." Andy@</i>
