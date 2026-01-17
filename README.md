@@ -3,19 +3,25 @@
 
 🌍 United States
 
-🌱 Debugging and building
+🌱 macOS 🍃 Linux 🌳 Windows
 
 💬 Ask me about CRM
 
-📫 Write or call me
+🫦 Debugging
 
-# 💻 Sneak Preview
+📫 Write me ☎️ Call me
+
+# 🧠 Sneak Preview 
 > Programming
 
 > Salesforce
 
+> Models
+
+> Weather
+
 # ⏱ Gateway Technical College | University of Wisconsin Madison | Ironhack
-> Data Science Bootcamp
+> Data Science
 
 > Psychology
 
@@ -25,20 +31,18 @@
 
 > Commputer Science
 
-> Programming
-
 > UX/UI
 
 # ✅ Certifications Attained
 > Salesforce Certified Agentforce Specialist (Enterprise AI)
 
-> Leadership in Energy and Environmental Design
+> Leadership in Energy and Environmental Design (USGBC)
 
-# ✍️For-the-love-of Projects
+# 💻 For-the-love-of Projects
 > Deploying a Twitter AI forecasting agent
 
-
+> Cloudflare DNS 
 
 <p align="center">
-  <i>"Predicting the future by building it." Andy@</i>
+  <i> ✍️"Predicting the future by building it." Andy@</i>
 </p>
