@@ -1,3 +1,9 @@
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" style="color: #5A4632; font-family: Georgia;">
+    <b>LATEST CERTIFICATION:</b> Foundational C# with Microsoft 🎓 — <b>CURRENT PROJECT:</b> Developer Annex Notebook 📓 — <b>STATUS:</b> Actively Coding...
+  </marquee>
+</div>
+
 <h1 align="center">Hi 👋 it's A N D Y@</h1>
 <h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my software developer skills.</h4> 
 
