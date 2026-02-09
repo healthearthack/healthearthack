@@ -2,7 +2,7 @@
 <h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my software developer skills.</h4> 
 
 # ✅ Certifications
-> Foundational CSharp Microsoft [Certification.](https://www.freecodecamp.org/Andrew_Kieckhefer_Engineer) freeCodeCamp
+> Foundational CSharp Microsoft [Certification.](https://www.freecodecamp.org/Andrew_Kieckhefer_Engineer) (freeCodeCamp)
 <img width="1018" height="686" alt="freeCodeCamp and Microsoft CSharp Certification" src="https://github.com/user-attachments/assets/70270d81-c08c-4aab-a7de-7a6dca835f80" />
 
 > Salesforce [Certified](https://www.salesforce.com/trailblazer/data360) Agentforce Specialist. Enterprise AI
@@ -17,6 +17,10 @@
 > Cloudflare DNS SEO testing
 
 > [AI and Mental Health](https://github.com/user-attachments/files/25174970/AI.Mental.Health.Treatment.Services.pdf)
+
+# ✅ Bachelor of Science (Master of Science Loading...)
+> Atmospheric and Oceanic Sciences. Environmental Studies. Computer Science. Leadership and Language. (Python)
+<img width="908" height="697" alt="Screenshot 2026-02-09 013358" src="https://github.com/user-attachments/assets/6db6cd29-b823-4b39-862d-427bf7be0e80" />
 
 
 <p align="center">
