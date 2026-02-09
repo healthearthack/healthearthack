@@ -1,11 +1,6 @@
 <div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="color: #5A4632; font-family: Georgia;">
-    <b>LATEST CERTIFICATION:</b> Foundational C# with Microsoft 🎓 — <b>CURRENT PROJECT:</b> Developer Annex Notebook 📓 — <b>STATUS:</b> Actively Coding...
-  </marquee>
+  <img src="https://github.com/user-attachments/assets/a9dccb05-a12e-4210-beff-aafafc3185fb" />
 </div>
-
-<h1 align="center">Hi 👋 it's A N D Y@</h1>
-<h4 align="center">I'm Andy Kieckhefer, an experienced meteorologist currently expanding my software developer skills.</h4> 
 
 # ✅ Certifications
 > Foundational CSharp Microsoft [Certification.](https://www.freecodecamp.org/Andrew_Kieckhefer_Engineer) (freeCodeCamp)
