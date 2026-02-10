@@ -3,10 +3,10 @@
 </div>
 
 # ✅ Certifications
-> Foundational CSharp Microsoft [Certification.](https://www.freecodecamp.org/Andrew_Kieckhefer_Engineer) (freeCodeCamp)
+>  [Microsoft Environment](https://learn.microsoft.com/en-us/users/andrew-kieckhefer-engineering) Foundational CSharp [Certification.](https://www.freecodecamp.org/Andrew_Kieckhefer_Engineer) (freeCodeCamp)
 <img width="1018" height="686" alt="freeCodeCamp and Microsoft CSharp Certification" src="https://github.com/user-attachments/assets/70270d81-c08c-4aab-a7de-7a6dca835f80" />
 
-> Salesforce [Certified](https://www.salesforce.com/trailblazer/data360) Agentforce Specialist. Enterprise AI
+> Salesforce [Certified](https://www.salesforce.com/trailblazer/data360) Agentforce Specialist. (Enterprise AI)
 <img width="1411" height="787" alt="AndrewKieckhefer_SalesforceCertificate" src="https://github.com/user-attachments/assets/67b06177-316f-4334-a9d4-ba40b3b1ed92" />
 
 
@@ -19,8 +19,8 @@
 
 > [AI and Mental Health](https://github.com/user-attachments/files/25174970/AI.Mental.Health.Treatment.Services.pdf)
 
-# ✅ Bachelor of Science (Master of Science Loading...)
-> Atmospheric and Oceanic Sciences. Environmental Studies. Computer Science. Leadership and Language. (Python)
+# ✅ Diploma (Master of Science Loading...)
+> Atmospheric and Oceanic Sciences _Bachelor of Science,_ Environmental Studies _Certificate,_ Computer Science _Python, Matlab.lib, and Jupyter Notebook,_ Leadership Lab _Aerospace Curriculum_ and Linguistics/Languages _Spanish and Arabic_. 
 <img width="908" height="697" alt="Screenshot 2026-02-09 013358" src="https://github.com/user-attachments/assets/6db6cd29-b823-4b39-862d-427bf7be0e80" />
 
 
