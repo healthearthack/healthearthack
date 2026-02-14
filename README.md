@@ -47,7 +47,7 @@ Each repository below is built to:
 
 ---
 
-## 💳 OpenLedger Platform  
+## 💳 OpenLedger Platform (Atlas)
 **FinTech Infrastructure Simulation**
 
 **Problem Solved:**  
