@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a9dccb05-a12e-4210-beff-aafafc3185fb" width="100%" />
 </div>
 
-# 🌍 Healthearth
+# 🌍 Healthearthack
 
 > Engineering resilient digital ecosystems across fintech, climate, healthcare, AI, and infrastructure.
 
