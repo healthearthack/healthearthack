@@ -40,5 +40,5 @@ Recommending the following:
 
   Slightly spendy, yet effective experience to choose to refer BMO Harris for overall bank industry relations.,
 
-**Referrals are provided, rooted in personally professional experiences and long-term rapport building**
+**Referrals are provided, rooted in personally professional experiences and long-term rapport building.**
 
