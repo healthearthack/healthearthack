@@ -1,8 +1,12 @@
 # Hello, I'm Andrew
+### Developer
+### Meteorologist
 
-Building operational and financial systems to support diverse economic interest,
+**
 
-Custom financial tracking and payroll logic for small business operation,
+## At a glance
+
+Custom money movement tracking and payroll logic for small business operation,
 
   Export and import economy.,
   Payroll logging.,
@@ -10,7 +14,7 @@ Custom financial tracking and payroll logic for small business operation,
 
 Digital realty asset,
 
-Door*Dasher Operations AND Lyft with a demonstrated success record in Postmates by Uber, and Grubhub,
+Delivery and Transport Operations,
 
   Fuel efficiency., 
   Routing.,
