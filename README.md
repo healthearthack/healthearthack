@@ -1,6 +1,7 @@
 # Hello, Andrew here.
 
 > First F.I.G. instruction with professor Herb Wang,
+
 > Oil, Water, and Climate,
 
 ### Developer
@@ -21,7 +22,9 @@ Active partnership networking
 ## Proud to Sponsor
 
 > Wonded Warrior
+
 > Signal
+
 > Saint Jude's
 
 **
