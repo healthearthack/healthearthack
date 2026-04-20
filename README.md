@@ -8,10 +8,6 @@
 ### Meteorologist
 ### Educator
 
-#New York Times Bestseller 
-# SoFi, (South Finance, *$5T (directv * pay proposal)) 
-# Lyft, Postmates (Uber), DoorDash independent contractor
-
 **
 
 ## At a glance
