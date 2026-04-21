@@ -28,8 +28,9 @@ Active partnership networking
 ## Registration
 
 A Bank Routing Begins With:
-_041 215 663
-_
+
+_041 215 663_
+
 Delaware State File Begins With:
-_10526076
-_
+
+_10526076_
