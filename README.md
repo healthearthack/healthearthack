@@ -17,7 +17,6 @@ This profile is not a static portfolio—it is an **automated cyber-physical res
  **3. ⚖️ CLEAN / LAW (Statutes & Capital):** Audits critical minerals under IRA Section 30D/45X
  
  **4. 🚀 PUBLISH / TA-DA! (Global Broadcast):** The automated press compiles a camera-ready monograph, registers a permanent **CERN Zenodo DOI** ([10.5281/zenodo.22857254](https://doi.org/10.5281/zenodo.22857254)), and blasts the findings worldwide across W3C RSS 2.0 (eed.xml) and [go.thepolka.cloud](https://go.thepolka.cloud).
-eed.xml) and [go.thepolka.cloud](https://go.thepolka.cloud).
 
 ---
 ---
